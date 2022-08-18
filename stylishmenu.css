@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    color: white;
+    background-color: yellow;
+    font-weight: 800;
+}
+
+.menuTitle {
+    font-size: 50px;
+}
+
+li {
+    list-style-type: none;
+    color: white;
+    justify-content: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu .items {
+    font-size: 24px;
+}
